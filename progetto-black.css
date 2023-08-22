@@ -1,0 +1,121 @@
+/* start header css */
+.h1custom{
+    font-family:'Courier New', Courier, monospace;
+    color:#ffffff;
+    position: relative;
+    top: 250px;
+    font-size:100px;
+}
+.pcustom{
+    font-family:'Courier New', Courier, monospace;
+    color:#ffffff;
+    position: relative;
+    top:250px;
+    font-size: 30px;
+}
+.header-moon{
+    height: 100vh;
+    width: 100%;
+    background:linear-gradient(rgba(0, 0, 0, 0.641), rgba(0, 0, 0, 0.436)), url(./media-black/moon.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.card1{
+    width: 20%;
+    border-bottom:solid rgb(26, 159, 247);
+}
+.row-custom{
+    position:relative;
+    top:600px;
+}
+.testolorem{
+    font-family:'Courier New', Courier, monospace;
+}
+.h3custom{
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+/* fine header css */
+
+/* start main section 1*/
+.mainmoon{
+    background:linear-gradient(rgba(0, 0, 0, 0.523), rgba(0, 0, 0, 0.271)), url(./media-black/moon2.jpg);
+    height:130vh;
+    width:100%;
+}
+.h2custom{
+    color:rgb(0, 114, 252); 
+}
+.rowcustom2{
+    position:relative;
+    top:500px;
+}
+.pcustom2{
+    font-size: 20px;
+}
+.mainmoon2{
+    background: linear-gradient(rgba(0, 0, 0, 0.453), rgb(0, 0, 0)), url(./media-black/earth-3391040_1920.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width:100%;
+}
+.icon1{
+    color:rgb(1, 157, 255)
+}
+.bordo{
+    border-bottom: solid rgb(24, 183, 231);
+}
+.lorem-centrale{
+    position: relative;
+    top:320px;
+}
+.lorem-destra{
+    position: relative;
+    top: 500px;
+}
+.lorem-sinistro{
+    position: relative;
+    top:500px;
+}
+
+/* section 2 razzo*/
+.razzo{
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(./media-black/missile-2027068_1280.png);
+    background-color: black;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 100vh;
+    width:100%;
+}
+.spaziotesto{
+    padding-top: 180px;
+    padding-bottom: 180px;
+}
+/* section 3 go to */
+button{
+    position:relative;
+    width:120px;
+    height:40px;
+    text-align: center;
+    background: transparent;
+    color:white;
+    border: 2px solid rgb(20, 170, 251);
+    margin:30px;
+    margin-left: 600px;
+}
+/* section finale */
+.earth{
+    background:linear-gradient(rgba(0, 0, 0, 0.826), rgb(0,0,0,0)), url(./media-black/sunrise-1765027_1920.jpg);
+}
+.h3color{
+    color:rgb(0, 114, 252);
+}
+.riga-blu{
+    border-bottom: 5px solid transparent;
+    border-image: linear-gradient(90deg, rgba(0,0,0,0.9248074229691877) 20%, rgba(43,157,244,1) 50%, rgba(0,0,0,0.9192051820728291) 80%);
+    border-image-slice: 1;
+    width:100%;
+}
